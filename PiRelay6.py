@@ -1,6 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
-# Library for PiRelay V2
+# Library for PiRelay 6 
 # Developed by: SB Components
 # Author: Satyam
 # Project: PiRelay6-Channel
