@@ -1,12 +1,12 @@
 import PiRelay6
 import time
 
-r1 = PiRelay.Relay("RELAY1")
-r2 = PiRelay.Relay("RELAY2")
-r3 = PiRelay.Relay("RELAY3")
-r4 = PiRelay.Relay("RELAY4")
-r5 = PiRelay.Relay("RELAY5")
-r6 = PiRelay.Relay("RELAY6")
+r1 = PiRelay6.Relay("RELAY1")
+r2 = PiRelay6.Relay("RELAY2")
+r3 = PiRelay6.Relay("RELAY3")
+r4 = PiRelay6.Relay("RELAY4")
+r5 = PiRelay6.Relay("RELAY5")
+r6 = PiRelay6.Relay("RELAY6")
 
 r1.on()
 time.sleep(0.5)
