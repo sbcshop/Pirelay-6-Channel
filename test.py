@@ -1,4 +1,4 @@
-import PiRelay
+import PiRelay6
 import time
 
 r1 = PiRelay.Relay("RELAY1")
